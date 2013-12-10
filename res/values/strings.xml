@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Devnagari Font Installer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_root">You Must Have Root Access For This!</string>
+    <string name="hello_devnagri">Click \'Install\' To Install Devnagari Font</string>
+    <string name="hello_reboot">Phone Will Be Rebooted To Complete The Process</string>
+
+</resources>
